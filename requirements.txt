@@ -1,9 +1,10 @@
 firebase==3.0.1
 Flask==1.1.2
 numpy==1.22.3
-python_firebase==1.2.1
+python_firebase
 pytz==2021.3
 scikit_learn==1.1.1
 scipy==1.8.0
-tensorflow-cpu==2.8.0
+tensorflow-cpu
+requests
 gunicorn
