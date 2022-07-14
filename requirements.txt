@@ -8,4 +8,5 @@ tensorflow-cpu
 requests
 gunicorn
 Flask==2.1.0
-
+python-jwt
+PyJWT
