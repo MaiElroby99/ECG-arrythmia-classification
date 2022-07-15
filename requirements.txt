@@ -12,3 +12,4 @@ PyJWT
 gcloud
 pycrypto
 sseclient
+pyrebase4
