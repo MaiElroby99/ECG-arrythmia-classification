@@ -73,7 +73,7 @@ class NumpyArrayEncoder(JSONEncoder):
 
 #ECG predict method
 
-@app.route('/' , methods = ['POST'])
+@app.route('/' , methods = ['GET', 'POST'])
 
 def predict():
     
